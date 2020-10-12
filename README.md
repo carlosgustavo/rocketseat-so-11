@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-Project inspired by the Omnistack 11 rocketseat week, application was developed with Back End in Node.js, Front End in React.js.
+The aim of the project is to allow you to create your NGO and get in touch with others, making donations and helping them to solve their problems.
 </h4>
 <p align="center">
   <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/rocketseat-so-10">
@@ -18,7 +18,7 @@ Project inspired by the Omnistack 11 rocketseat week, application was developed 
   <a href="#memo-license">License</a>
 </p>
                          
-![front-end](https://user-images.githubusercontent.com/53797220/95795214-322d0f00-0cc0-11eb-8c2e-aad6de579e79.gif)
+![project](https://user-images.githubusercontent.com/53797220/95798643-ee8ad300-0cc8-11eb-9bea-a9caa8e641ea.gif)
 
 ## :rocket: Technologies
 
@@ -27,9 +27,8 @@ This project was developed with the following technologies:
 -  [ReactJS](https://reactjs.org/)
 -  [CSS](https://www.w3schools.com/css/)
 -  [Node.js](https://nodejs.org/en/)
--  [MongoDB](https://www.mongodb.com/cloud/atlas)
+- [SQLite3](https://www.sqlite.org/index.html)
 -  [Insomnia](https://insomnia.rest/)
--  [MongoDB Compass](https://www.mongodb.com/products/compass)
 
 ## :information_source: How To Use
 
@@ -39,10 +38,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/carlosgustavo/rocketseat-so-10.git
+$ git clone https://github.com/carlosgustavo/rocketseat-so-11.git
 
 # Go into the repository
-$ cd rocketseat-so-10/backend
+$ cd rrocketseat-so-11/backend
 
 # Install dependencies
 $ yarn install
@@ -56,7 +55,7 @@ $ yarn dev
 ```bash
 
 # Go into the repository
-$ cd rocketseat-so-10/front-end
+$ cd rocketseat-so-11/frontend
 
 # Install dependencies
 $ yarn install
