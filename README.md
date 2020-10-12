@@ -41,7 +41,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 $ git clone https://github.com/carlosgustavo/rocketseat-so-11.git
 
 # Go into the repository
-$ cd rrocketseat-so-11/backend
+$ cd rocketseat-so-11/backend
 
 # Install dependencies
 $ yarn install
