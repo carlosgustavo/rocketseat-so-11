@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-The aim of the project is to allow you to create your NGO and get in touch with others, making donations and helping them to solve their problems.
+The aim of the project is to allow the user to create their NGO and get in touch with others, making donations and helping them to solve their problems.
 </h4>
 <p align="center">
   <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/rocketseat-so-10">
