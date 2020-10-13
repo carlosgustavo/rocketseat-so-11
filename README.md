@@ -1,5 +1,7 @@
 
 <h1 align="center">
+        <img alt="https://github.com/carlosgustavo/rocketseat-so-11/blob/master/logo.svg" />
+    <br>
      Rocketseat Semana Omnistack 11
 </h1>
 
