@@ -11,7 +11,7 @@ The aim of the project is to allow the user to create their NGO and get in touch
 <p align="center">
   <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/rocketseat-so-11">
   <img alt="languages" src="https://img.shields.io/github/languages/count/carlosgustavo/rocketseat-so-11">
-  <img alt="Último commit do GitHub" src="https://img.shields.io/github/last-commit/carlosgustavo/rocketseat-so-10">
+  <img alt="Último commit do GitHub" src="https://img.shields.io/github/last-commit/carlosgustavo/rocketseat-so-11">
   <img alt="licence" src="https://img.shields.io/github/last-commit/carlosgustavo/rocketseat-so-11">
 </p>
 <p align="center">
