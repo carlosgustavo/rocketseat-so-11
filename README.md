@@ -47,7 +47,7 @@ $ cd rocketseat-so-11/backend
 $ yarn install
 
 # Run the app
-$ yarn dev
+$ yarn start
 ```
 
 <h3> Frontend (React) </h3>
