@@ -1,6 +1,6 @@
 
 <h1 align="center">
-        <img alt="https://raw.githubusercontent.com/carlosgustavo/rocketseat-so-11/d227339c62f0b26a539cd36f089197c3d4171d32/logo.svg" />
+        <img alt="https://raw.githubusercontent.com/carlosgustavo/rocketseat-so-11/cad6e71ee20fa12df969f3f245ba044b9faf04f3/logo.svg" />
     <br>
      Rocketseat Semana Omnistack 11
 </h1>
